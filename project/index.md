@@ -16,7 +16,7 @@ resources:
 Status: draft, Type: Project
 
 
-Firstname Lastname, [su21-reu-375](https://github.com/cybertraining-dsc/su21-reu-375), [Edit](https://github.com/cybertraining-dsc/su21-reu-375/blob/main/project/index.md)
+Ololade Latinwo, [su21-reu-375](https://github.com/cybertraining-dsc/su21-reu-375), [Edit](https://github.com/cybertraining-dsc/su21-reu-375/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
