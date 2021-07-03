@@ -1,7 +1,7 @@
 ---
 date: 2021-06-16
-title: "Project: This is the Descriptive Title of the Example"
-linkTitle: "375"
+title: "Analysis of Covid-19 Vaccination Rates in African Americans"
+linkTitle: Example
 tags: ["project", "reu"]
 description: "Here comes the abstract"
 author: Ololade Latinwo
@@ -16,7 +16,7 @@ resources:
 Status: draft, Type: Project
 
 
-Firstname Lastname, [su21-reu-375](https://github.com/cybertraining-dsc/su21-reu-375), [Edit](https://github.com/cybertraining-dsc/su21-reu-375/blob/main/project/index.md)
+Ololade Latinwo, [su21-reu-375](https://github.com/cybertraining-dsc/su21-reu-375), [Edit](https://github.com/cybertraining-dsc/su21-reu-375/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
@@ -34,14 +34,10 @@ Contents
 
 ## 1. Introduction
 
-Do not include this tip in your document:
-
-> Tip: Please note that an up to date version of these instructions is available at
->
-> * <https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md>
+Different economic and health institutions show that COVID-19 in the United States (U.S) have been among the highest in the world. It has been estimated that 10 million people had been infected and more than a quarter-million died of COVID-19 in the U.S by the end of November 2020. 
 
 
-Here comes a convincing introduction to the problem
+
 
 ## 2. Report Format
 
