@@ -1,7 +1,7 @@
 ---
 date: 2021-06-16
 title: "Analysis of Covid-19 Vaccination Rates in African Americans"
-linkTitle: Example
+linkTitle: Vaccination Rate Analysis
 tags: ["project", "reu"]
 description: "Here comes the abstract"
 author: Ololade Latinwo
