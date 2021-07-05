@@ -1,8 +1,8 @@
 ---
 date: 2021-06-16
-title: "Analysis of Covid-19 Vaccination Rates in African Americans"
+title: "Analysis of Covid-19 Vaccination Rates in Different Races"
 linkTitle: Vaccination Rate Analysis
-tags: ["project", "reu"]
+tags: ["project", "reu", "COVID-19"]
 description: "Here comes the abstract"
 author: Ololade Latinwo
 github_url: https://github.com/cybertraining-dsc/su21-reu-375/edit/main/project/index.md
@@ -22,7 +22,8 @@ Ololade Latinwo, [su21-reu-375](https://github.com/cybertraining-dsc/su21-reu-37
 
 ## Abstract
 
-Here comes a short abstract of the project that summarizes what it is about
+With the ready availability of well-tested COVID-19 vaccinations, it is concerning that a suprising large portion of the U.S. population still refuses to recieve one. The goal of this report is to analyze the demographics of those who choose not to recieve the vaccine and possibly find the reasoning behind their decision in order dissuade any concerns of those who may be on the fence over recieveing the vaccine
+
 
 Contents
 
@@ -34,10 +35,7 @@ Contents
 
 ## 1. Introduction
 
-Different economic and health institutions show that COVID-19 in the United States (U.S) have been among the highest in the world. It has been estimated that 10 million people had been infected and more than a quarter-million died of COVID-19 in the U.S by the end of November 2020. 
-
-
-
+It has been shown by several economic and health institutions that rates COVID-19 in the United States have been among the highest in the world. Estimates show that about 10 million people have been infected and over a quarter of a million have died by in the U.S. by the end of November 2020. Fortunately, several pharmaceutical companies such as() have managed to create a vaccine by the end of 2020, with several million Americans being given the vaccine by early March. Interestingly, it appears that despite the ready availability of vaccines, a sizeable portion of the population have no intention of recieving either their second does or either dose at all. Voluntarily recieving the COVID-19 vaccine is integral to putting the pandemic to an end, so it is important to explore which demographics are hesitanto recieve their vaccine and explore their reasons for doing so. 
 
 ## 2. Report Format
 
