@@ -22,7 +22,8 @@ Ololade Latinwo, [su21-reu-375](https://github.com/cybertraining-dsc/su21-reu-37
 
 ## Abstract
 
-With the ready availability of well-tested COVID-19 vaccinations, it is concerning that a suprising large portion of the U.S. population still refuses to recieve one. The goal of this report is to analyze the demographics of those who choose not to recieve the vaccine and possibly find the reasoning behind their decision in order dissuade any concerns of those who may be on the fence over recieveing the vaccine
+
+With the ready availability of COVID-19 vaccinations, it is concerning that a suprising large portion of the U.S. population still refuses to recieve one. The goal of this report is to analyze the demographics of those who choose not to recieve the vaccine and possibly find the reasoning behind their decision in order dissuade any concerns of those who may be on the fence over recieveing the vaccine.
 
 
 Contents
