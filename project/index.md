@@ -35,7 +35,7 @@ Contents
 
 ## 1. Introduction
 
-It has been shown by several economic and health institutions that rates COVID-19 in the United States have been among the highest in the world. Estimates show that about 10 million people have been infected and over a quarter of a million have died by in the U.S. by the end of November 2020. Fortunately, several pharmaceutical companies such as() have managed to create a vaccine by the end of 2020, with several million Americans being given the vaccine by early March. Interestingly, it appears that despite the ready availability of vaccines, a sizeable portion of the population have no intention of recieving either their second does or either dose at all. Voluntarily recieving the COVID-19 vaccine is integral to putting the pandemic to an end, so it is important to explore which demographics are hesitanto recieve their vaccine and explore their reasons for doing so. 
+It has been shown by several economic and health institutions that rates COVID-19 in the United States have been among the highest in the world. Estimates show that about 10 million people have been infected and over a quarter of a million have died by in the U.S. by the end of November 2020 [^1]. Fortunately, several pharmaceutical companies such as() have managed to create a vaccine by the end of 2020, with several million Americans being given the vaccine by early March. Interestingly, it appears that despite the ready availability of vaccines, a sizeable portion of the population have no intention of recieving either their second does or either dose at all. Voluntarily recieving the COVID-19 vaccine is integral to putting the pandemic to an end, so it is important to explore which demographics are hesitanto recieve their vaccine and explore their reasons for doing so. 
 
 ## 3. Using Images
 
@@ -66,8 +66,10 @@ Your report must include at least 6 references. Please use customary academic ci
 one point automatically change the references from superscript to square brackets it is best to introduce a space before 
 the first square bracket.
 
-[^1]: Use of energy explained - Energy use in homes, [Online resource] 
-      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+[^1]: Khubchandani, J., Sharma, S., Price, J.H. et al. 
+      COVID-19 Vaccination Hesitancy in the United States: A Rapid National Assessment. 
+      J Community Health 46, 270–277 (2021). 
+      https://doi.org/10.1007/s10900-020-00958-x
 
 
 [^2]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
