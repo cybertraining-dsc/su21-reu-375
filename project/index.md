@@ -42,8 +42,6 @@ It has been shown by several economic and health institutions that rates COVID-1
 ![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/chart.png)
 
 **Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
-
-   
 ## 5. Datasets
 
 Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
@@ -61,8 +59,7 @@ A convincing but not fake conclusion should summarize what the conclusion of the
 
 ## 8. Acknowledgments
 
-Please add acknowledgments to all that contributed or helped on this project.  
-
+Please add acknowledgments to all that contributed or helped on this project.
 ## 9. References
 
 Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
