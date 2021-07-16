@@ -1,0 +1,11 @@
+Jagdish Khubchandani, Yilda Macias,
+COVID-19 vaccination hesitancy in Hispanics and African-Americans: A review and recommendations for practice,
+Brain, Behavior, & Immunity - Health,
+Volume 15,
+2021,
+100277,
+ISSN 2666-3546,
+https://doi.org/10.1016/j.bbih.2021.100277.
+(https://www.sciencedirect.com/science/article/pii/S2666354621000806)
+Abstract: COVID-19 vaccines were approved for use in the general American public by late 2020 and early 2021. Media reports started highlighting COVID-19 vaccination hesitancy in racial and ethnic minorities. However, little is known about the extent of COVID-19 vaccination hesitancy in racial and ethnic minorities and whether there are unique sociodemographic and cognitive correlates associated with vaccine hesitancy. Thus, the purpose of this study was to review all nationwide studies on COVID-19 vaccine hesitancy among African-Americans and Hispanics (the largest minority groups in the U.S.). A comprehensive review of the published literature was conducted to search for national studies and a final pool of 13 studies (n ​= ​107,841 participants) was included in this review. The overall pooled prevalence rate of COVID-19 vaccination hesitancy for adult Americans across all studies was 26.3% (95%Ci ​= ​17.3–36.4). In contrast, the overall pooled prevalence rate of COVID-19 vaccination hesitancy for African-Americans was 41.6% (95%Ci ​= ​34.4–48.9) and for Hispanics, it was 30.2% (95%Ci ​= ​23.2–37.7). The major predictors of vaccine hesitancy in African-Americans and Hispanics were: sociodemographic characteristics (e.g., age, gender, income, education, and household size); medical mistrust and history of racial discrimination; exposure to myths and misinformation, perceived risk of getting infected with COVID-19; beliefs about vaccines and past vaccine compliance, and concerns about the safety, efficacy, and side effects from the COVID-19 vaccines. Given the high COVID-19 vaccine hesitancy rates in racial/ethnic minorities and the unique factors associated with vaccine hesitancy in African-Americans and Hispanics, several clinic-based and community-oriented practice recommendations have been included in this article.
+Keywords: Race; Ethnicity; COVID-19; Vaccination; Vaccines; Minorities
