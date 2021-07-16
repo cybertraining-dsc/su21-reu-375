@@ -41,8 +41,10 @@ It has been shown by several economic and health institutions that rates COVID-1
 
 ![Figure 1](https://github.com/cybertraining-dsc/su21-reu-375/blob/f39fe3add9f61a004200919377d9da3cd16ad107/USA%20Vaccine%20.jpg)
 
-**Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
-## 5. Datasets
+**Figure 1:** An image of the United States illustrating the percentage of adults who have recieved at least 
+
+![Figure 2](https://github.com/cybertraining-dsc/su21-reu-375/blob/712ba63373edc302e27b1a492d8a3b5b9fa48465/Vaccine%20Rate%20by%20COVID%20Status.jpg)
+**Figure 2:** A bar graph of the vaccine rates in people who have or have not been previously been diagnosed with COVID-19
 
 Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
 However, if the data is publicly available you program must contain a download function instead that you customize.
