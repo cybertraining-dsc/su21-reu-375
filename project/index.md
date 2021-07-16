@@ -39,7 +39,7 @@ It has been shown by several economic and health institutions that rates COVID-1
 
 ## 3. Using Images
 
-![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/chart.png)
+![Figure 1](https://github.com/cybertraining-dsc/su21-reu-375/blob/f39fe3add9f61a004200919377d9da3cd16ad107/USA%20Vaccine%20.jpg)
 
 **Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
 ## 5. Datasets
@@ -72,6 +72,5 @@ the first square bracket.
       https://doi.org/10.1007/s10900-020-00958-x
 
 
-[^2]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
-      <https://github.com/cloudmesh/cloudmesh-common>
-
+[^2]: Estimated Vaccination Rates by State: June 9-21, 2021
+      
