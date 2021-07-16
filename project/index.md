@@ -51,6 +51,10 @@ It has been shown by several economic and health institutions that rates COVID-1
 
 **Figure 3:** An image of the United States illustrating the percentage of adults who are hesitant to recieve a vaccine for COVID-19[^4].
 
+![Figure 4](https://github.com/cybertraining-dsc/su21-reu-375/blob/90b659ac3f76fb77dda3bb2d5f3dd33fadbda166/Pictures/Political%20Affiliation%20by%20Region.jpg)
+
+**Figure 4:** A graph of the political alignments seen in various regions of the United States[^5].
+
 Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
 However, if the data is publicly available you program must contain a download function instead that you customize.
 Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
