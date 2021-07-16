@@ -43,9 +43,13 @@ It has been shown by several economic and health institutions that rates COVID-1
 
 **Figure 1:** An image of the United States illustrating the percentage of adults who have recieved at least one dose of the COVID-19 vaccine[^2].
 
-![Figure 2](https://github.com/cybertraining-dsc/su21-reu-375/blob/e13597076f290e67ddc888ec8ac2a7f6fbf8a3ad/Pictures/USA%20Vaccine%20Hesitancy)
+![Figure 2](https://github.com/cybertraining-dsc/su21-reu-375/blob/b624e0213bad00132fe7ec9762730466aa4210b3/Pictures/Vaccine%20Rate%20by%20COVID%20Status.jpg)
 
 **Figure 2:** A bar graph of the vaccine rates in people who have or have not been previously been diagnosed with COVID-19[^2].
+
+![Figure 3](https://github.com/cybertraining-dsc/su21-reu-375/blob/b624e0213bad00132fe7ec9762730466aa4210b3/Pictures/USA%20Vaccine%20Hesitancy.jpg)
+
+**Figure 3:** An image of the United States illustrating the percentage of adults who are hesitant to recieve a vaccine for COVID-19[^4].
 
 Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
 However, if the data is publicly available you program must contain a download function instead that you customize.
@@ -86,7 +90,9 @@ the first square bracket.
       https://www.sciencedirect.com/science/article/pii/S2666354621000806
       
 
-[^4]:
+[^4]: Vaccine Hesitancy for COVID-19
+      Centers for Disease Control and Prevention
+      https://data.cdc.gov/stories/s/Vaccine-Hesitancy-for-COVID-19/cnd2-a6zw
 
 [^5]:
 
