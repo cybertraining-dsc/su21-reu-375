@@ -39,13 +39,13 @@ It has been shown by several economic and health institutions that rates COVID-1
 
 ## 3. Using Images
 
-![Figure 1](https://github.com/cybertraining-dsc/su21-reu-375/blob/f39fe3add9f61a004200919377d9da3cd16ad107/USA%20Vaccine%20.jpg)
+![Figure 1](https://github.com/cybertraining-dsc/su21-reu-375/blob/e13597076f290e67ddc888ec8ac2a7f6fbf8a3ad/Pictures/USA%20Vaccine%20.jpg)
 
-**Figure 1:** An image of the United States illustrating the percentage of adults who have recieved at least 
+**Figure 1:** An image of the United States illustrating the percentage of adults who have recieved at least one dose of the COVID-19 vaccine[^2].
 
-![Figure 2](https://github.com/cybertraining-dsc/su21-reu-375/blob/712ba63373edc302e27b1a492d8a3b5b9fa48465/Vaccine%20Rate%20by%20COVID%20Status.jpg)
+![Figure 2](https://github.com/cybertraining-dsc/su21-reu-375/blob/e13597076f290e67ddc888ec8ac2a7f6fbf8a3ad/Pictures/USA%20Vaccine%20Hesitancy)
 
-**Figure 2:** A bar graph of the vaccine rates in people who have or have not been previously been diagnosed with COVID-19
+**Figure 2:** A bar graph of the vaccine rates in people who have or have not been previously been diagnosed with COVID-19[^2].
 
 Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
 However, if the data is publicly available you program must contain a download function instead that you customize.
@@ -75,5 +75,22 @@ the first square bracket.
       https://doi.org/10.1007/s10900-020-00958-x
 
 
-[^2]: Estimated Vaccination Rates by State: June 9-21, 2021
+[^2]: Household Pulse Survey COVID-19 Vaccination Tracker
+      United States Census Bureau
+      https://www.census.gov/library/visualizations/interactive/household-pulse-survey-covid-19-vaccination-tracker.html
+      
+      
+[^3]: Jagdish Khubchandani, Yilda Macias,
+      COVID-19 vaccination hesitancy in Hispanics and African-Americans: A review and recommendations for practice,
+      Brain, Behavior, & Immunity - Health
+      https://www.sciencedirect.com/science/article/pii/S2666354621000806
+      
+
+[^4]:
+
+[^5]:
+
+[^6]:
+
+      
       
