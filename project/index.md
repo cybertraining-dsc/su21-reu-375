@@ -66,7 +66,7 @@ A convincing but not fake conclusion should summarize what the conclusion of the
 
 ## 8. Acknowledgments
 
-Please add acknowledgments to all that contributed or helped on this project.
+Special thanks to Yohn J Parra, Carlos Theran, and Gregor Lasweski for supporting this project. 
 ## 9. References
 
 Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
