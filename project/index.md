@@ -78,6 +78,8 @@ It has been shown by several economic and health institutions that rates COVID-1
 
 **Figures 4a-d**: Images of vaccine hesitancy rates by certain demographics
 
+### 2.5 Results of the Study Done by the Journal of Community Health
+
 
 ## 3. Results
 
@@ -94,15 +96,14 @@ The age ranges for both studies are grouped slighlty differently, yet, interesti
 Once again, the education levels are grouped slightly differently with the US Census Bureau not taking account for those with a Master's degree above and the Journal of Community Health grouping together those who have a high school education and thos who have not completed high school. However, unlike the previous variable, very similar results are yielded despite the difference. In both studies, those who had a high school education or below had the highest hesitancy rate at 31% in the Journal of Community Health study and 15.7% for those who have less than a high school education and 13.8% for those who have one in the data provided by the US Census Bureau[^1][^4]. This correlates with the vaccination rate data as those who ahave a high school education or less have the two lowest vaccination rates of 74.3% and 70.9%, respectively[^4]. 
 
 ### 3.5 Location
-The Journal of Community Healt is the only data set that assigns specific percentages to the hesitancy rates to regions of the United States with the Northeast having the highest hesitancy rate of 25%, followed very closely by the West and South at 24% and 23%, respectively[^1]. This leaves the Midwest with the lowest hesitancy rate of 18%[^1]. This is partially reflected by the data displayed in the map of the United States that illustrates the rates of hesitancy made by the Census Bureau, which shows that the rates of vaccine hesitancy are slightly higher in the Northeast, West, and Midwest, with the lowest hesitancy rate in the South[^2]. 
+The Journal of Community Health is the only data set that assigns specific percentages to the hesitancy rates to regions of the United States with the Northeast having the highest hesitancy rate of 25%, followed very closely by the West and South at 24% and 23%, respectively[^1]. This leaves the Midwest with the lowest hesitancy rate of 18%[^1]. This is partially reflected by the data displayed in the map of the United States that illustrates the rates of hesitancy made by the Census Bureau, which shows that the rates of vaccine hesitancy are slightly higher in the Northeast, West, and Midwest, with the lowest hesitancy rate in the South[^2]. Once again, due to the much larger sample size, it is safer to assume that the Census Bureau is more correct. 
 
 ### 3.6 Political Affiliation
 This variable is only seen in the Journal of Community Health study. It shows that vaccine hesitancy is highest in Republicans  at 29% and lowest in Democrats at 16%. 
 
  
 ## 4. Conclusion
-After analyzing the data, a person's sex appears to have no influence regarding a person's willingness to recieve a COVID vaccine. However, the other variables looked at during this study appear to have a great influence. One's level of education appears to have great influence over their willingness to take the vaccine. This makes sense as those who are less educated are less likely to understand the significance of vaccinations and how they protect the U.S. population and may also be more vulnerable to false information about the vaccine as they may not have the skills to deduce whether a source is reliable or not. Additionally, the data shows that younger adults are less likely to recieve the vaccine. This is possibly due to the common misconception that young people are not adversely affected by the virus and as a result the vaccine is not necessary, which could be why , according to the US Census Bureau, 34.9% of those who are hesitant to take the vaccine don't believe that they need it[^4].    
-
+After analyzing the data, a person's sex appears to have no influence regarding a person's willingness to recieve a COVID vaccine. However, the other variables looked at during this study appear to have an influence. One's level of education appears to have great influence over their willingness to take the vaccine. This makes sense as those who are less educated are less likely to understand the significance of vaccinations and how they protect the U.S. population and may also be more vulnerable to false information about the vaccine as they may not have the skills to deduce whether a source is reliable or not. Additionally, the data shows that younger adults are less likely to recieve the vaccine. This is possibly due to the common misconception that young people are not adversely affected by the virus and as a result the vaccine is not necessary, which could be why , according to the US Census Bureau, 34.9% of those who are hesitant to take the vaccine don't believe that they need it[^4]. One's political affiliation had a great influence on whether or not someone would be receptive to the vaccine as there is a 13% difference between the hesitancy rates in Republicans and Democrats[^1]. This is very interesting considering that the region with the greatest Republican presence, the South, has the lowest hesitancy rate while the rest of the regions, which have a smaller Republican presence, have the highest hesitancy rates [^3][^2]. Race is also a significant variable, with Black Americans having the lowest vaccination rates and among the highest vaccination hesitancy rates. This could be due to a number of overlapping factors.  
 
 
 
@@ -128,21 +129,11 @@ Special thanks to Yohn J Parra, Carlos Theran, and Gregor Lasweski for supportin
       https://data.cdc.gov/stories/s/Vaccine-Hesitancy-for-COVID-19/cnd2-a6zw
 
 
-[^3]: COVID-19 Vaccination in the United States, Jurisdiction
-      Center for Disease Control and Prevention 
-      https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc/data
+[^3]: Party Affiliation by Region
+      Pew Research Center
+      https://www.pewforum.org/religious-landscape-study/compare/party-affiliation/by/region/-trend
 
 
 [^4]: Household Pulse Survey COVID-19 Vaccination Tracker 
       United States Census Bureau  
       https://www.census.gov/library/visualizations/interactive/household-pulse-survey-covid-19-vaccination-tracker.html
-
-
-[^5]:
-
-
-
-[^6]:
-
-      
-      
