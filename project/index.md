@@ -48,7 +48,7 @@ It has been shown by several economic and health institutions that rates COVID-1
 
 **Figure 1:** An image of the United States illustrating the percentage of adults who are hesitant to recieve a vaccine for COVID-19[^2].
 
-### 2.2 Vaccination Hesitancy Rates by Demographic
+### 2.2 Vaccination Rates by Demographic
 
 ![Figure 2a](https://github.com/cybertraining-dsc/su21-reu-375/blob/b89d46fedf16c94b543512c2e1999a1d6e2d4baa/Pictures/Vaccination%20Rate%20by%20Age.jpg)
 
@@ -66,7 +66,7 @@ It has been shown by several economic and health institutions that rates COVID-1
 
 **Figure 3:** An image of the United States illustrating the percentage of adults who have recieved at least one dose of the COVID-19 vaccine[^3].
 
-### 2.4 Vaccination Rates by Demographic 
+### 2.4 Vaccination Rates in all 50 States 
 
 ![Figure 4a](https://github.com/cybertraining-dsc/su21-reu-375/blob/4c274d9eff61ea7ed38e57202150b8f1222eef09/Pictures/Hesitancy%20Rate%20by%20Age.jpg)
 
