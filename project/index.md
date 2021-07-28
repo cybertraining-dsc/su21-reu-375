@@ -37,6 +37,7 @@ Contents
 
 It has been shown by several economic and health institutions that rates COVID-19 in the United States have been among the highest in the world. Estimates show that about 10 million people have been infected and over a quarter of a million have died in the U.S. by the end of November 2020 [^1]. Fortunately, several pharmaceutical companies such as() have managed to create a vaccine by the end of 2020, with several million Americans being given the vaccine by early March. Interestingly, it appears that despite the ready availability of vaccines, a sizeable portion of the population have no intention of receiving either their second does or either dose at all. Voluntarily receiving the COVID-19 vaccine is integral to putting the pandemic to an end, so it is important to explore which demographics are hesitant to receive their vaccine and explore their reasons for doing so. 
 
+
 ## 2. Data Sets
 
 The larger data sets used for this project are located in a github folder called "Vaccine Rate Data Sets". Here, one will find data including a table of the results of a study involving hesitancy in a variety of demographics [^1], vaccine hesitancy rates for all U.S. counties [^2], and vaccination progress for all 50 states [^3]. The smaller data sets and available visualizations for the larger sets will be provided below. 
@@ -47,7 +48,7 @@ The larger data sets used for this project are located in a github folder called
 
 **Figure 1:** An image of the United States illustrating the percentage of adults who are hesitant to recieve a vaccine for COVID-19[^2].
 
-### 2.2 Vaccination Hesitancy Rates by Characterisitc
+### 2.2 Vaccination Hesitancy Rates by Demographic
 
 ![Figure 2a](https://github.com/cybertraining-dsc/su21-reu-375/blob/b89d46fedf16c94b543512c2e1999a1d6e2d4baa/Pictures/Vaccination%20Rate%20by%20Age.jpg)
 
@@ -65,7 +66,8 @@ The larger data sets used for this project are located in a github folder called
 
 **Figure 2:** An image of the United States illustrating the percentage of adults who have recieved at least one dose of the COVID-19 vaccine[^3].
 
-### 2.4 Vaccination Rates by Characterisitc 
+### 2.4 Vaccination Rates by Demographic 
+
 
 ## 3 Methodology
 
@@ -83,20 +85,20 @@ The larger data sets used for this project are located in a github folder called
 
 ### 4.6 Household Income
 
-### 4.7 Familial and Marriage Status 
+### 4.7 Familial and Marriage Status
+
  
 ## 5. Conclusion
 
 A convincing but not fake conclusion should summarize what the conclusion of the project is.
 
+
 ## 6. Acknowledgments
 
 Special thanks to Yohn J Parra, Carlos Theran, and Gregor Lasweski for supporting this project. 
-## 7. References
 
-Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
-one point automatically change the references from superscript to square brackets it is best to introduce a space before 
-the first square bracket.
+
+## 7. References
 
 [^1]: Khubchandani, J., Sharma, S., Price, J.H. et al. 
       COVID-19 Vaccination Hesitancy in the United States: A Rapid National Assessment. 
@@ -119,19 +121,9 @@ the first square bracket.
       https://www.census.gov/library/visualizations/interactive/household-pulse-survey-covid-19-vaccination-tracker.html
 
 
-      
-      
-[^3]: Jagdish Khubchandani, Yilda Macias,
-      COVID-19 vaccination hesitancy in Hispanics and African-Americans: A review and recommendations for practice,
-      Brain, Behavior, & Immunity - Health
-      https://www.sciencedirect.com/science/article/pii/S2666354621000806
-      
-
-[^4]: Vaccine Hesitancy for COVID-19
-      Centers for Disease Control and Prevention
-      https://data.cdc.gov/stories/s/Vaccine-Hesitancy-for-COVID-19/cnd2-a6zw
-
 [^5]:
+
+
 
 [^6]:
 
