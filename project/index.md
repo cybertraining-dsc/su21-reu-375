@@ -37,41 +37,52 @@ Contents
 
 It has been shown by several economic and health institutions that rates COVID-19 in the United States have been among the highest in the world. Estimates show that about 10 million people have been infected and over a quarter of a million have died in the U.S. by the end of November 2020 [^1]. Fortunately, several pharmaceutical companies such as() have managed to create a vaccine by the end of 2020, with several million Americans being given the vaccine by early March. Interestingly, it appears that despite the ready availability of vaccines, a sizeable portion of the population have no intention of receiving either their second does or either dose at all. Voluntarily receiving the COVID-19 vaccine is integral to putting the pandemic to an end, so it is important to explore which demographics are hesitant to receive their vaccine and explore their reasons for doing so. 
 
-## 3. Using Images
+## 2. Data Sets
 
-![Figure 1](https://github.com/cybertraining-dsc/su21-reu-375/blob/e13597076f290e67ddc888ec8ac2a7f6fbf8a3ad/Pictures/USA%20Vaccine%20.jpg)
+The larger data sets used for this project are located in a github folder called "Vaccine Rate Data Sets". Here, one will find data including a table of the results of a study involving hesitancy in a variety of demographics [^1], vaccine hesitancy rates for all U.S. counties [^2], and vaccination progress for all 50 states [^3]. The smaller data sets and available visualizations for the larger sets will be provided below. 
 
-**Figure 1:** An image of the United States illustrating the percentage of adults who have recieved at least one dose of the COVID-19 vaccine[^2].
+### 2.1 COVID-19 Vaccination Hesitancy in all 50 States by County
 
-![Figure 2](https://github.com/cybertraining-dsc/su21-reu-375/blob/b624e0213bad00132fe7ec9762730466aa4210b3/Pictures/Vaccine%20Rate%20by%20COVID%20Status.jpg)
+![Figure 1](https://github.com/cybertraining-dsc/su21-reu-375/blob/b624e0213bad00132fe7ec9762730466aa4210b3/Pictures/USA%20Vaccine%20Hesitancy.jpg)
 
-**Figure 2:** A bar graph of the vaccine rates in people who have or have not been previously been diagnosed with COVID-19[^2].
+**Figure 1:** An image of the United States illustrating the percentage of adults who are hesitant to recieve a vaccine for COVID-19[^2].
 
-![Figure 3](https://github.com/cybertraining-dsc/su21-reu-375/blob/b624e0213bad00132fe7ec9762730466aa4210b3/Pictures/USA%20Vaccine%20Hesitancy.jpg)
+### 2.2 COVID-19 Vaccination Rates in all 50 States 
 
-**Figure 3:** An image of the United States illustrating the percentage of adults who are hesitant to recieve a vaccine for COVID-19[^4].
+![Figure 2](https://github.com/cybertraining-dsc/su21-reu-375/blob/e13597076f290e67ddc888ec8ac2a7f6fbf8a3ad/Pictures/USA%20Vaccine%20.jpg)
 
-![Figure 4](https://github.com/cybertraining-dsc/su21-reu-375/blob/90b659ac3f76fb77dda3bb2d5f3dd33fadbda166/Pictures/Political%20Affiliation%20by%20Region.jpg)
+**Figure 2:** An image of the United States illustrating the percentage of adults who have recieved at least one dose of the COVID-19 vaccine[^3].
 
-**Figure 4:** A graph of the political alignments seen in various regions of the United States[^5].
+### 2.3 
 
-Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
-However, if the data is publicly available you program must contain a download function instead that you customize.
-Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
-the download function.
+## 3 Methodology
 
-## 6. Results
+## 4. Results
 
+### 4.1 Race
 
+### 4.2 Sex
+
+### 4.3 Age
+
+### 4.4 Education Level
+
+### 4.5 Residential Classification, Location, and Political Affiliation
+
+### 4.6 Household Income
+
+### 4.7 Employment Status 
+
+### 4.8 Prior Diagnosis
  
-## 6. Conclusion
+## 5. Conclusion
 
 A convincing but not fake conclusion should summarize what the conclusion of the project is.
 
-## 8. Acknowledgments
+## 6. Acknowledgments
 
 Special thanks to Yohn J Parra, Carlos Theran, and Gregor Lasweski for supporting this project. 
-## 9. References
+## 7. References
 
 Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
 one point automatically change the references from superscript to square brackets it is best to introduce a space before 
@@ -83,9 +94,21 @@ the first square bracket.
       https://doi.org/10.1007/s10900-020-00958-x
 
 
-[^2]: Household Pulse Survey COVID-19 Vaccination Tracker
-      United States Census Bureau
+[^2]: Estimates of vaccine hesitancy for COVID-19
+      Center for Disease Control and Prevention 
+      https://data.cdc.gov/stories/s/Vaccine-Hesitancy-for-COVID-19/cnd2-a6zw
+
+
+[^3]: COVID-19 Vaccination in the United States, Jurisdiction
+      Center for Disease Control and Prevention 
+      https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc/data
+
+
+[^4]: Household Pulse Survey COVID-19 Vaccination Tracker 
+      United States Census Bureau  
       https://www.census.gov/library/visualizations/interactive/household-pulse-survey-covid-19-vaccination-tracker.html
+
+
       
       
 [^3]: Jagdish Khubchandani, Yilda Macias,
