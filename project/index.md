@@ -77,6 +77,12 @@ The first of these larger data sets are the results from a study done in the Jou
 **Figures 4a-d**: Images of vaccine hesitancy rates by certain demographics
 
 ### 2.5 Results of the Study Done by the Journal of Community Health
+![Figure 5a](https://github.com/cybertraining-dsc/su21-reu-375/blob/35296bc3e854e979a0798c57e3d8557e430519a6/Pictures/1.jpg)
+![Figure 5b](https://github.com/cybertraining-dsc/su21-reu-375/blob/35296bc3e854e979a0798c57e3d8557e430519a6/Pictures/2.jpg)
+![Figure 5c](https://github.com/cybertraining-dsc/su21-reu-375/blob/35296bc3e854e979a0798c57e3d8557e430519a6/Pictures/3.jpg)
+
+
+**Figure 5a-c**: Relevant results for the explored variables from a study in vaccine hesitancy rates done by the Journal of Community Health
 
 
 ## 3. Results
