@@ -60,9 +60,9 @@ However, if the data is publicly available you program must contain a download f
 Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
 the download function.
 
-## 6. Benchmark
+## 6. Results
 
-Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
+
  
 ## 6. Conclusion
 
