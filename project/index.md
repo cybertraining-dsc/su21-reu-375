@@ -56,6 +56,7 @@ The larger data sets used for this project are located in a github folder called
 ![Figure 2c](https://github.com/cybertraining-dsc/su21-reu-375/blob/b89d46fedf16c94b543512c2e1999a1d6e2d4baa/Pictures/Vaccination%20Rate%20by%20Race%20and%20Ethnicity.jpg)
 
 ![Figure 2d](https://github.com/cybertraining-dsc/su21-reu-375/blob/b89d46fedf16c94b543512c2e1999a1d6e2d4baa/Pictures/Vaccination%20Rate%20by%20Sex.jpg)
+
 **Figures 2a-d: Images of vaccine hesitancy rates by characteristic [^2].
 
 ### 2.3 COVID-19 Vaccination Rates in all 50 States 
