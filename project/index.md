@@ -3,7 +3,7 @@ date: 2021-06-16
 title: "Analysis of Covid-19 Vaccination Rates in Different Races"
 linkTitle: Vaccination Rate Analysis
 tags: ["project", "reu", "COVID-19"]
-description: "With the ready availability of COVID-19 vaccinations, it is concerning that a suprising large portion of the U.S. population still refuses to recieve one. The goal of this report is to analyze the demographics of those who choose not to recieve the vaccine and possibly find the reasoning behind their decision in order dissuade any concerns of those who may be on the fence over recieveing the vaccine."
+description: "With the ready availability of COVID-19 vaccinations, it is concerning that a suprising large portion of the U.S. population still refuses to recieve one. In order to control the spread of the pandemic and possibly even erradicate it completely, it is integral that the United States vaccinate as much of the population as possible. Not only does this require ensuring that everyone who wishes to be vaccinated recieves a vaccine, it also requires that those who are unwilling to recieve the vaccine are persuaded to take it. The goal of this report is to analyze the demographics of those who are hesitant to recieve the vaccine and find the reasoning behind their decision. This will make it easier to properly persuade them to recieve the vaccine and aid in raising the United States' vaccination rates."
 author: Ololade Latinwo
 github_url: https://github.com/cybertraining-dsc/su21-reu-375/edit/main/project/index.md
 resources:
@@ -35,12 +35,14 @@ Contents
 
 ## 1. Introduction
 
-It has been shown by several economic and health institutions that rates COVID-19 in the United States have been among the highest in the world. Estimates show that about 10 million people have been infected and over a quarter of a million have died in the U.S. by the end of November 2020 [^1]. Fortunately, several pharmaceutical companies such as() have managed to create a vaccine by the end of 2020, with several million Americans being given the vaccine by early March. Interestingly, it appears that despite the ready availability of vaccines, a sizeable portion of the population have no intention of receiving either their second does or either dose at all. Voluntarily receiving the COVID-19 vaccine is integral to putting the pandemic to an end, so it is important to explore which demographics are hesitant to receive their vaccine and explore their reasons for doing so. 
+It has been shown by several economic and health institutions that rates COVID-19 in the United States have been among the highest in the world. Estimates show that about 10 million people have been infected and over a quarter of a million have died in the U.S. by the end of November 2020 [^1]. Fortunately, several pharmaceutical companies such as Pfizer, Moderna, and Johnson & Johnson have managed to create a vaccine by the end of 2020, with several million Americans being given the vaccine by early March. Interestingly, it appears that despite the ready availability of vaccines, a sizeable portion of the population have no intention of receiving either their second does or either dose at all. Voluntarily receiving the COVID-19 vaccine is integral to putting the pandemic to an end, so it is important to explore which demographics are hesitant to receive their vaccine and explore their reasons for doing so. 
 
 
 ## 2. Data Sets
 
-The larger data sets used for this project are located in a github folder called "Vaccine Rate Data Sets". Here, one will find data including a table of the results of a study involving hesitancy in a variety of demographics [^1], vaccine hesitancy rates for all U.S. counties [^2], and vaccination progress for all 50 states [^3]. The smaller data sets and available visualizations for the larger sets will be provided below. 
+(It is important to note that the data sets available regarding this topic are technically incomplete due to the coronavirus being an ongoing phenomenon.) The larger data sets used for this project are located in a github folder called "Vaccine Rate Data Sets". The first of these larger data sets are the results from a study done in the Journal of Community of Health done by Jagdish Khubchandani, Sushil Sharma, James H. Price, Michael J. Wiblishauser, Manoj Sharma and Fern J. Webb. In this study, participants of a variety of backgrounds were given a questionnaire regarding whether or not they were likely or unlikely to recieve the COVID vaccine. The variables included in the study and explored in this project are sex, age group, race and ethnicity, marital status, whether or not they had children at home, education level, area and location of residence, and political affiliation. The raw data for this study is not available, however, the study has published the results as percentages. The second of these data sets is a data table comprising of the estimated rates of vaccine hesitancy in each county of the United States provided by the CDC. The third of these data sets is a data table that illustrates vaccination progress in each of the 50 states that is also provided by the CDC. Additionally, the CDC also provided a breakdown of vaccine hesitancy and progress by certain variables, of which age, sex, race and ethnicity, and education level are explored in this project. Like the study done by the Journal of Community Health, the raw data is not available. Thankfully, they did provide percentages for each variable. 
+
+The smaller data sets and associated visualizations for the larger sets will be provided below. 
 
 ### 2.1 COVID-19 Vaccination Hesitancy in all 50 States by County
 
@@ -92,9 +94,7 @@ The larger data sets used for this project are located in a github folder called
 
 ### 4.5 Residential Classification, Location, and Political Affiliation
 
-### 4.6 Household Income
-
-### 4.7 Familial and Marriage Status
+### 4.6 Familial and Marriage Status
 
  
 ## 5. Conclusion
