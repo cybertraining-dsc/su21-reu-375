@@ -47,13 +47,24 @@ The larger data sets used for this project are located in a github folder called
 
 **Figure 1:** An image of the United States illustrating the percentage of adults who are hesitant to recieve a vaccine for COVID-19[^2].
 
-### 2.2 COVID-19 Vaccination Rates in all 50 States 
+### 2.2 Vaccination Hesitancy Rates by Characterisitc
+
+![Figure 2a](https://github.com/cybertraining-dsc/su21-reu-375/blob/b89d46fedf16c94b543512c2e1999a1d6e2d4baa/Pictures/Vaccination%20Rate%20by%20Age.jpg)
+
+![Figure 2b](https://github.com/cybertraining-dsc/su21-reu-375/blob/b89d46fedf16c94b543512c2e1999a1d6e2d4baa/Pictures/Vaccination%20Rate%20by%20Education%20Level.jpg)
+
+![Figure 2c](https://github.com/cybertraining-dsc/su21-reu-375/blob/b89d46fedf16c94b543512c2e1999a1d6e2d4baa/Pictures/Vaccination%20Rate%20by%20Race%20and%20Ethnicity.jpg)
+
+![Figure 2d](https://github.com/cybertraining-dsc/su21-reu-375/blob/b89d46fedf16c94b543512c2e1999a1d6e2d4baa/Pictures/Vaccination%20Rate%20by%20Sex.jpg)
+**Figures 2a-d: Images of vaccine hesitancy rates by characteristic [^2].
+
+### 2.3 COVID-19 Vaccination Rates in all 50 States 
 
 ![Figure 2](https://github.com/cybertraining-dsc/su21-reu-375/blob/e13597076f290e67ddc888ec8ac2a7f6fbf8a3ad/Pictures/USA%20Vaccine%20.jpg)
 
 **Figure 2:** An image of the United States illustrating the percentage of adults who have recieved at least one dose of the COVID-19 vaccine[^3].
 
-### 2.3 
+### 2.4 Vaccination Rates by Characterisitc 
 
 ## 3 Methodology
 
@@ -71,9 +82,7 @@ The larger data sets used for this project are located in a github folder called
 
 ### 4.6 Household Income
 
-### 4.7 Employment Status 
-
-### 4.8 Prior Diagnosis
+### 4.7 Familial and Marriage Status 
  
 ## 5. Conclusion
 
