@@ -22,7 +22,7 @@ Ololade Latinwo, [su21-reu-375](https://github.com/cybertraining-dsc/su21-reu-37
 
 ## Abstract
 
-With the ready availability of COVID-19 vaccinations, it is concerning that a suprising large portion of the U.S. population still refuses to recieve one. The goal of this report is to analyze the demographics of those who choose not to recieve the vaccine and possibly find the reasoning behind their decision in order dissuade any concerns of those who may be on the fence over recieveing the vaccine.
+With the ready availability of COVID-19 vaccinations, it is concerning that a suprising large portion of the U.S. population still refuses to recieve one. In order to control the spread of the pandemic and possibly even erradicate it completely, it is integral that the United States vaccinate as much of the population as possible. Not only does this require ensuring that everyone who wishes to be vaccinated recieves a vaccine, it also requires that those who are unwilling to recieve the vaccine are persuaded to take it. The goal of this report is to analyze the demographics of those who are hesitant to recieve the vaccine and find the reasoning behind their decision. This will make it easier to properly persuade them to recieve the vaccine and aid in raising the United States' vaccination rates. 
 
 
 Contents
