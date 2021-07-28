@@ -58,16 +58,25 @@ The larger data sets used for this project are located in a github folder called
 
 ![Figure 2d](https://github.com/cybertraining-dsc/su21-reu-375/blob/b89d46fedf16c94b543512c2e1999a1d6e2d4baa/Pictures/Vaccination%20Rate%20by%20Sex.jpg)
 
-**Figures 2a-d: Images of vaccine hesitancy rates by characteristic [^2].
+**Figures 2a-d: Images of vaccine hesitancy rates by certain demographics [^2].
 
 ### 2.3 COVID-19 Vaccination Rates in all 50 States 
 
-![Figure 2](https://github.com/cybertraining-dsc/su21-reu-375/blob/e13597076f290e67ddc888ec8ac2a7f6fbf8a3ad/Pictures/USA%20Vaccine%20.jpg)
+![Figure 3](https://github.com/cybertraining-dsc/su21-reu-375/blob/e13597076f290e67ddc888ec8ac2a7f6fbf8a3ad/Pictures/USA%20Vaccine%20.jpg)
 
-**Figure 2:** An image of the United States illustrating the percentage of adults who have recieved at least one dose of the COVID-19 vaccine[^3].
+**Figure 3:** An image of the United States illustrating the percentage of adults who have recieved at least one dose of the COVID-19 vaccine[^3].
 
 ### 2.4 Vaccination Rates by Demographic 
 
+![Figure 4a](https://github.com/cybertraining-dsc/su21-reu-375/blob/4c274d9eff61ea7ed38e57202150b8f1222eef09/Pictures/Hesitancy%20Rate%20by%20Age.jpg)
+
+![Figure 4b](https://github.com/cybertraining-dsc/su21-reu-375/blob/4c274d9eff61ea7ed38e57202150b8f1222eef09/Pictures/Hesitancy%20Rate%20by%20Education.jpg)
+
+![Figure 4c](https://github.com/cybertraining-dsc/su21-reu-375/blob/4c274d9eff61ea7ed38e57202150b8f1222eef09/Pictures/Hesitancy%20Rate%20by%20Race%20and%20Ethnicity.jpg)
+
+![Figure 4d](https://github.com/cybertraining-dsc/su21-reu-375/blob/4c274d9eff61ea7ed38e57202150b8f1222eef09/Pictures/Hesitancy%20Rate%20by%20Sex.jpg)
+
+**Figures 4a-d: Images of vaccine hesitancy rates by certain demographics
 
 ## 3 Methodology
 
