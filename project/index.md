@@ -136,20 +136,20 @@ Special thanks to Yohn J Parra, Carlos Theran, and Gregor Lasweski for supportin
       https://doi.org/10.1007/s10900-020-00958-x
 
 [^2]: Estimates of vaccine hesitancy for COVID-19
-      Center for Disease Control and Prevention 
+      Center for Disease Control and Prevention
       https://data.cdc.gov/stories/s/Vaccine-Hesitancy-for-COVID-19/cnd2-a6zw
 
 [^3]: Party Affiliation by Region Pew Research Center
       <https://www.pewforum.org/religious-landscape-study/compare/party-affiliation/by/region/-trend>
 
 [^4]: Household Pulse Survey COVID-19 Vaccination Tracker 
-      United States Census Bureau  
+      United States Census Bureau
       <https://www.census.gov/library/visualizations/interactive/household-pulse-survey-covid-19-vaccination-tracker.html>
-          
+
 [^5]: Black High School Attainment Nearly on Par With National Average
       United States Census Bureau
       <https://www.census.gov/library/stories/2020/06/black-high-school-attainment-nearly-on-par-with-national-average.html>
-      
-[^6]: Washington, Harriet A. 
+
+[^6]: Washington, Harriet A.
       Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present
       <https://www.jstor.org/stable/25610054?seq=1#metadata_info_tab_contents>
