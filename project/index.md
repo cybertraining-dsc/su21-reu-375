@@ -22,7 +22,7 @@ Ololade Latinwo, [su21-reu-375](https://github.com/cybertraining-dsc/su21-reu-37
 
 ## Abstract
 
-With the ready availability of COVID-19 vaccinations, it is concerning that a suprising large portion of the U.S. population still refuses to recieve one. In order to control the spread of the pandemic and possibly even erradicate it completely, it is integral that the United States vaccinate as much of the population as possible. Not only does this require ensuring that everyone who wishes to be vaccinated recieves a vaccine, it also requires that those who are unwilling to recieve the vaccine are persuaded to take it. The goal of this report is to analyze the demographics of those who are hesitant to recieve the vaccine and find the reasoning behind their decision. This will make it easier to properly persuade them to recieve the vaccine and aid in raising the United States' vaccination rates. 
+With the ready availability of COVID-19 vaccinations, it is concerning that a suprising large portion of the U.S. population still refuses to recieve one. In order to control the spread of the pandemic and possibly even erradicate it completely, it is integral that the United States vaccinate as much of the population as possible. Not only does this require ensuring that everyone who wishes to be vaccinated recieves a vaccine, it also requires that those who are unwilling to recieve the vaccine are persuaded to take it. The goal of this report is to analyze the demographics of those who are hesitant to recieve the vaccine and find the reasoning behind their decision. This will make it easier to properly persuade them to recieve the vaccine and aid in raising the United States' vaccination rates.
 
 
 Contents
@@ -31,16 +31,16 @@ Contents
 
 {{% /pageinfo %}}
 
-**Keywords:** tensorflow, example. 
+**Keywords:** tensorflow, example.
 
 ## 1. Introduction
 
-It has been shown by several economic and health institutions that rates COVID-19 in the United States have been among the highest in the world. Estimates show that about 10 million people have been infected and over a quarter of a million have died in the U.S. by the end of November 2020 [^1]. Fortunately, several pharmaceutical companies such as Pfizer, Moderna, and Johnson & Johnson have managed to create a vaccine by the end of 2020, with several million Americans being given the vaccine by early March. Interestingly, it appears that despite the ready availability of vaccines, a sizeable portion of the population has no intention of receiving either their second does or either dose at all. Voluntarily receiving the COVID-19 vaccine is integral to putting the pandemic to an end, so it is important to explore which demographics are hesitant to receive their vaccine and explore their reasons for doing so. In this project, the variables that will be examined are age, sex, race, education level, location within the United States, and political affiliation.    
+It has been shown by several economic and health institutions that rates COVID-19 in the United States have been among the highest in the world. Estimates show that about 10 million people have been infected and over a quarter of a million have died in the U.S. by the end of November 2020 [^1]. Fortunately, several pharmaceutical companies such as Pfizer, Moderna, and Johnson & Johnson have managed to create a vaccine by the end of 2020, with several million Americans being given the vaccine by early March. Interestingly, it appears that despite the ready availability of vaccines, a sizeable portion of the population has no intention of receiving either their second does or either dose at all. Voluntarily receiving the COVID-19 vaccine is integral to putting the pandemic to an end, so it is important to explore which demographics are hesitant to receive their vaccine and explore their reasons for doing so. In this project, the variables that will be examined are age, sex, race, education level, location within the United States, and political affiliation.
 
 
 ## 2. Data Sets
 
-The first of these larger data sets are the results from a study done in the Journal of Community of Health done by Jagdish Khubchandani, Sushil Sharma, James H. Price, Michael J. Wiblishauser, Manoj Sharma, and Fern J. Webb. In this study, participants of a variety of backgrounds were given a questionnaire regarding whether or not they were likely or unlikely to receive the COVID vaccine. The variables included in the study and explored in this project are sex, age group, race, education level, regional location, and political affiliation. The raw data for this study is not available, however, the study has published the results as percentages. The second and third data sets are two maps of the United States that are provided by the CDC and illustrate the estimated rates of vaccine hesitancy and vaccination progress. Additionally, the United States Census Bureau provided a breakdown of vaccine hesitancy and progress by certain variables, of which age, sex, race and ethnicity, and education level are explored in this project. Like the study done by the Journal of Community Health, the raw data is not available, but percentages are available for each variable.  
+The first of these larger data sets are the results from a study done in the Journal of Community of Health done by Jagdish Khubchandani, Sushil Sharma, James H. Price, Michael J. Wiblishauser, Manoj Sharma, and Fern J. Webb. In this study, participants of a variety of backgrounds were given a questionnaire regarding whether or not they were likely or unlikely to receive the COVID vaccine. The variables included in the study and explored in this project are sex, age group, race, education level, regional location, and political affiliation. The raw data for this study is not available, however, the study has published the results as percentages. The second and third data sets are two maps of the United States that are provided by the CDC and illustrate the estimated rates of vaccine hesitancy and vaccination progress. Additionally, the United States Census Bureau provided a breakdown of vaccine hesitancy and progress by certain variables, of which age, sex, race and ethnicity, and education level are explored in this project. Like the study done by the Journal of Community Health, the raw data is not available, but percentages are available for each variable.
 
 ### 2.1 COVID-19 Vaccination Hesitancy in all 50 States by County
 
@@ -108,7 +108,7 @@ Once again, the education levels are grouped slightly differently with the US Ce
 
 ### 3.5 Location
 
-The Journal of Community Health is the only data set that assigns specific percentages to the hesitancy rates to regions of the United States with the Northeast having the highest hesitancy rate of 25%, followed very closely by the West and South at 24% and 23%, respectively[^1]. This leaves the Midwest with the lowest hesitancy rate of 18%[^1]. This is partially reflected by the data displayed in the map of the United States that illustrates the rates of hesitancy made by the Census Bureau, which shows that the rates of vaccine hesitancy are slightly higher in the Northeast, West, and Midwest, with the lowest hesitancy rate in the South[^2]. Once again, due to the much larger sample size, it is safer to assume that the Census Bureau is more correct. 
+The Journal of Community Health is the only data set that assigns specific percentages to the hesitancy rates to regions of the United States with the Northeast having the highest hesitancy rate of 25%, followed very closely by the West and South at 24% and 23%, respectively[^1]. This leaves the Midwest with the lowest hesitancy rate of 18%[^1]. This is partially reflected by the data displayed in the map of the United States that illustrates the rates of hesitancy made by the Census Bureau, which shows that the rates of vaccine hesitancy are slightly higher in the Northeast, West, and Midwest, with the lowest hesitancy rate in the South[^2]. Once again, due to the much larger sample size, it is safer to assume that the Census Bureau is more correct.
 
 ### 3.6 Political Affiliation
 
@@ -135,26 +135,21 @@ Special thanks to Yohn J Parra, Carlos Theran, and Gregor Lasweski for supportin
       J Community Health 46, 270–277 (2021). 
       https://doi.org/10.1007/s10900-020-00958-x
 
-
 [^2]: Estimates of vaccine hesitancy for COVID-19
       Center for Disease Control and Prevention 
       https://data.cdc.gov/stories/s/Vaccine-Hesitancy-for-COVID-19/cnd2-a6zw
 
-
-[^3]: Party Affiliation by Region
-      Pew Research Center
-      https://www.pewforum.org/religious-landscape-study/compare/party-affiliation/by/region/-trend
-
+[^3]: Party Affiliation by Region Pew Research Center
+      <https://www.pewforum.org/religious-landscape-study/compare/party-affiliation/by/region/-trend>
 
 [^4]: Household Pulse Survey COVID-19 Vaccination Tracker 
       United States Census Bureau  
-      https://www.census.gov/library/visualizations/interactive/household-pulse-survey-covid-19-                 vaccination-tracker.html
-     
-     
+      <https://www.census.gov/library/visualizations/interactive/household-pulse-survey-covid-19-vaccination-tracker.html>
+          
 [^5]: Black High School Attainment Nearly on Par With National Average
       United States Census Bureau
-      https://www.census.gov/library/stories/2020/06/black-high-school-attainment-nearly-on-par-with-           national-average.html
+      <https://www.census.gov/library/stories/2020/06/black-high-school-attainment-nearly-on-par-with-national-average.html>
       
 [^6]: Washington, Harriet A. 
-      Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial           Times to the Present
-      https://www.jstor.org/stable/25610054?seq=1#metadata_info_tab_contents
+      Medical Apartheid: The Dark History of Medical Experimentation on Black Americans from Colonial Times to the Present
+      <https://www.jstor.org/stable/25610054?seq=1#metadata_info_tab_contents>
