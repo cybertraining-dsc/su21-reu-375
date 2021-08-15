@@ -2,7 +2,7 @@
 date: 2021-06-16
 title: "Analysis of Covid-19 Vaccination Rates in Different Races"
 linkTitle: Vaccination Rate Analysis
-tags: ["project", "reu", "COVID-19"]
+tags: ["project", "reu", "covid", "health"]
 description: "With the ready availability of COVID-19 vaccinations, it is concerning that a suprising large portion of the U.S. population still refuses to recieve one. In order to control the spread of the pandemic and possibly even erradicate it completely, it is integral that the United States vaccinate as much of the population as possible. Not only does this require ensuring that everyone who wishes to be vaccinated recieves a vaccine, it also requires that those who are unwilling to recieve the vaccine are persuaded to take it. The goal of this report is to analyze the demographics of those who are hesitant to recieve the vaccine and find the reasoning behind their decision. This will make it easier to properly persuade them to recieve the vaccine and aid in raising the United States' vaccination rates."
 author: Ololade Latinwo
 github_url: https://github.com/cybertraining-dsc/su21-reu-375/edit/main/project/index.md
