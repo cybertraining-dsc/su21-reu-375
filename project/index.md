@@ -125,8 +125,10 @@ After analyzing this data, it is very apparent that, in order to persuade more A
 
 ## 6. Acknowledgments
 
-Special thanks to Yohn J Parra, Carlos Theran, and Gregor Lasweski for supporting this project.
-
+Special thanks to Yohn J Parra, Carlos Theran, and Gregor Laszweski for supporting this project.
+This project was in part supported by the NSF grant
+CyberTraining: CIC: CyberTraining for Students and Technologies
+from Generation Z with the awadrd numbers 1829704 and 2200409.
 
 ## 7. References
 
